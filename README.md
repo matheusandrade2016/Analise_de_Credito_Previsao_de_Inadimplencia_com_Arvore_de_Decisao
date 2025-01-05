@@ -1,6 +1,6 @@
 ## Análise de Crédito: Previsão de Inadimplência com Árvore de Decisão Na Linguagem Python
 
-Arvore de Decisao (DecisionTreeClassifier)
+Árvore de Decisão (DecisionTreeClassifier)
 
 **Introdução:**
 

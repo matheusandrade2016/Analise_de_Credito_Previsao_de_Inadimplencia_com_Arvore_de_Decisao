@@ -1,3 +1,3 @@
-## Analise de Credito Previsao de Inadimplencia com Arvore de Decisao
+## Análise de Crédito: Previsão de Inadimplência com Arvore de Decisão
 
 Arvore de Decisao (DecisionTreeClassifier)
